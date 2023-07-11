@@ -19,8 +19,7 @@
 |09|**Ï**|**ï**|I tréma|ALT + |216|**0207**|139|0239|-|
 |10|**Ô**|**ô**|O accent circonflexe|ALT + |226|**0212**|147|0244|-|
 |11|**Œ**|**œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|ALT + |-|**0140**|-|**0156**|-|
-|12|**Ø**|**ø**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|ALT + |157|**0216**|155|**0248**|-|
-
+|12|**Ø**|**ø**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|ALT + |157|**0216**|155|**0248**|Diam. 120, Phi 120, Ø120|
 ## 2. Caractères rares
 
 |#|Caractère majuscule|Caractère minuscule|Désignation|Combinaison|Code majuscule OEM|Code majuscule ANSI|Code minuscule OEM|Code minuscule ANSI|Notes|
