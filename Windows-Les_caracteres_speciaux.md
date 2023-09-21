@@ -8,287 +8,287 @@
 
 |#|Caractère majuscule|Caractère minuscule|Désignation|Combinaison|Code majuscule OEM|Code majuscule ANSI|Code minuscule OEM|Code minuscule ANSI|Notes|
 |:---:|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
-|01|**À**|**à**|A accent grave|ALT + |183|**0192**|133|0224|-|
-|02|**Â**|**â**|A accent grave|ALT + |182|**0194**|131|0226|-|
-|03|**Ç**|**ç**|C cédille|ALT + |128|**0199**|135|0231|-|
-|04|**É**|**é**|E accent aigu|ALT + |144|**0201**|130|0233|-|
-|05|**È**|**è**|E accent grave|ALT + |212|**0200**|138|0232|-|
-|06|**Ê**|**ê**|E accent circonflexe|ALT + |210|**0202**|136|0234|-|
-|07|**Ë**|**ë**|E tréma|ALT + |211|**0203**|137|0235|-|
-|08|**Î**|**î**|I accent circonflexe|ALT + |215|**0206**|140|0238|-|
-|09|**Ï**|**ï**|I tréma|ALT + |216|**0207**|139|0239|-|
-|10|**Ô**|**ô**|O accent circonflexe|ALT + |226|**0212**|147|0244|-|
-|11|**Œ**|**œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|ALT + |-|**0140**|-|**0156**|-|
-|12|**Ø**|**ø**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|ALT + |157|**0216**|155|**0248**|Diam. 120, Phi 120, Ø120|
+|01|**À**|**à**|A accent grave|<kbd>ALT</kbd> + |183|**0192**|133|0224|-|
+|02|**Â**|**â**|A accent grave|<kbd>ALT</kbd> + |182|**0194**|131|0226|-|
+|03|**Ç**|**ç**|C cédille|<kbd>ALT</kbd> + |128|**0199**|135|0231|-|
+|04|**É**|**é**|E accent aigu|<kbd>ALT</kbd> + |144|**0201**|130|0233|-|
+|05|**È**|**è**|E accent grave|<kbd>ALT</kbd> + |212|**0200**|138|0232|-|
+|06|**Ê**|**ê**|E accent circonflexe|<kbd>ALT</kbd> + |210|**0202**|136|0234|-|
+|07|**Ë**|**ë**|E tréma|<kbd>ALT</kbd> + |211|**0203**|137|0235|-|
+|08|**Î**|**î**|I accent circonflexe|<kbd>ALT</kbd> + |215|**0206**|140|0238|-|
+|09|**Ï**|**ï**|I tréma|<kbd>ALT</kbd> + |216|**0207**|139|0239|-|
+|10|**Ô**|**ô**|O accent circonflexe|<kbd>ALT</kbd> + |226|**0212**|147|0244|-|
+|11|**Œ**|**œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|<kbd>ALT</kbd> + |-|**0140**|-|**0156**|-|
+|12|**Ø**|**ø**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o|<kbd>ALT</kbd> + |157|**0216**|155|**0248**|Diam. 120, Phi 120, Ø120|
 ## 2. Caractères rares
 
 |#|Caractère majuscule|Caractère minuscule|Désignation|Combinaison|Code majuscule OEM|Code majuscule ANSI|Code minuscule OEM|Code minuscule ANSI|Notes|
 |:---:|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
-|01|**Å**|**à**|A rond en chef|ALT + |143|**0197**|134|0229|Ex. : 1 Å (un ångström) = 10^−10^ mètre|
-|02|**Æ**|**æ**|a-e entrelacé, a e-dans-le-a, a e-dans-l’a, e-dans-l’a|ALT + |146|**0198**|145|**0230**|Mots latins par exemple : CURRICULUM VITÆ, ET CÆTERA, NÆVUS, TÆNIA, curriculum vitæ, et cætera, nævus, tænia ...|
-|03|**Ñ**|**ñ**|ñ, egne, eñe tilde (en espagnol la eñe, nom féminin)|ALT + |165|**0209**|164|**0241**|-|
+|01|**Å**|**à**|A rond en chef|<kbd>ALT</kbd> + |143|**0197**|134|0229|Ex. : 1 Å (un ångström) = 10^−10^ mètre|
+|02|**Æ**|**æ**|a-e entrelacé, a e-dans-le-a, a e-dans-l’a, e-dans-l’a|<kbd>ALT</kbd> + |146|**0198**|145|**0230**|Mots latins par exemple : CURRICULUM VITÆ, ET CÆTERA, NÆVUS, TÆNIA, curriculum vitæ, et cætera, nævus, tænia ...|
+|03|**Ñ**|**ñ**|ñ, egne, eñe tilde (en espagnol la eñe, nom féminin)|<kbd>ALT</kbd> + |165|**0209**|164|**0241**|-|
 
 ## 3. OEM (Original Equipment Manufacturer) code pages / ANSI codes (later changed to Windows codes)
 
-### Liste des Alt codes (1-255 ; 0032-0255)
+### Liste des <kbd>ALT</kbd> codes (1-255 ; 0032-0255)
 
 |OEM Codes||ANSI Codes||
 |:---|:---:|:---|:---:|
-|Alt+1|☺|Alt+0001|-|	
-|Alt+2|☻|Alt+0002|-|	
-|Alt+3|♥|Alt+0003|-|	
-|Alt+4|♦|Alt+0004|-|	
-|Alt+5|♣|Alt+0005|-|	
-|Alt+6|♠|Alt+0006|-|	
-|Alt+7|•|Alt+0007|-|	
-|Alt+8|◘|Alt+0008|-|	
-|Alt+9|○|Alt+0009|-|	
-|Alt+10|◙|Alt+0010|-|	
-|Alt+11|♂|Alt+0011|-|	
-|Alt+12|♀|Alt+0012|-|	
-|Alt+13|♪|Alt+0013|-|	
-|Alt+14|♫|Alt+0014|-|	
-|Alt+15|☼|Alt+0015|-|	
-|Alt+16|►|Alt+0016|-|	
-|Alt+17|◄|Alt+0017|-|	
-|Alt+18|↕|Alt+0018|-|	
-|Alt+19|‼|Alt+0019|-|	
-|Alt+20|¶|Alt+0020|-|	
-|Alt+21|§|Alt+0021|-|	
-|Alt+22|▬|Alt+0022|-|	
-|Alt+23|↨|Alt+0023|-|	
-|Alt+24|↑|Alt+0024|-|	
-|Alt+25|↓|Alt+0025|-|	
-|Alt+26|→|Alt+0026|-|	
-|Alt+27|←|Alt+0027|-|	
-|Alt+28|∟|Alt+0028|-|	
-|Alt+29|↔|Alt+0029|-|	
-|Alt+30|▲|Alt+0030|-|	
-|Alt+31|▼|Alt+0031|-|	
-|Alt+32|espace,espacement,space,SP|Alt+0032|espace,espacement,space,SP|
-|Alt+33|!|Alt+0033|!|
-|Alt+34|"|Alt+0034|"|
-|Alt+35|#|Alt+0035|#|
-|Alt+36|$|Alt+0036|$|
-|Alt+37|%|Alt+0037|%|
-|Alt+38|&|Alt+0038|&|
-|Alt+39|'|Alt+0039|'|
-|Alt+40|(|Alt+0040|(|
-|Alt+41|)|Alt+0041|)|
-|Alt+42|*|Alt+0042|*|
-|Alt+43|+|Alt+0043|+|
-|Alt+44|,|Alt+0044|,|
-|Alt+45|-|Alt+0045|-|
-|Alt+46|.|Alt+0046|.|
-|Alt+47|/|Alt+0047|/|
-|Alt+48|0|Alt+0048|0|
-|Alt+49|1|Alt+0049|1|
-|Alt+50|2|Alt+0050|2|
-|Alt+51|3|Alt+0051|3|
-|Alt+52|4|Alt+0052|4|
-|Alt+53|5|Alt+0053|5|
-|Alt+54|6|Alt+0054|6|
-|Alt+55|7|Alt+0055|7|
-|Alt+56|8|Alt+0056|8|
-|Alt+57|9|Alt+0057|9|
-|Alt+58|:|Alt+0058|:|
-|Alt+59|;|Alt+0059|;|
-|Alt+60|<|Alt+0060|<|
-|Alt+61|=|Alt+0061|=|
-|Alt+62|>|Alt+0062| >|
-|Alt+63|?|Alt+0063|?|
-|Alt+64|@|Alt+0064|@|
-|Alt+65|A|Alt+0065|A|
-|Alt+66|B|Alt+0066|B|
-|Alt+67|C|Alt+0067|C|
-|Alt+68|D|Alt+0068|D|
-|Alt+69|E|Alt+0069|E|
-|Alt+70|F|Alt+0070|F|
-|Alt+71|G|Alt+0071|G|
-|Alt+72|H|Alt+0072|H|
-|Alt+73|I|Alt+0073|I|
-|Alt+74|J|Alt+0074|J|
-|Alt+75|K|Alt+0075|K|
-|Alt+76|L|Alt+0076|L|
-|Alt+77|M|Alt+0077|M|
-|Alt+78|N|Alt+0078|N|
-|Alt+79|O|Alt+0079|O|
-|Alt+80|P|Alt+0080|P|
-|Alt+81|Q|Alt+0081|Q|
-|Alt+82|R|Alt+0082|R|
-|Alt+83|S|Alt+0083|S|
-|Alt+84|T|Alt+0084|T|
-|Alt+85|U|Alt+0085|U|
-|Alt+86|V|Alt+0086|V|
-|Alt+87|W|Alt+0087|W|
-|Alt+88|X|Alt+0088|X|
-|Alt+89|Y|Alt+0089|Y|
-|Alt+90|Z|Alt+0090|Z|
-|Alt+91|[|Alt+0091|[|
-|Alt+92|\\|Alt+0092|\\|
-|Alt+93|]|Alt+0093|]|
-|Alt+94|\^|Alt+0094|^|
-|Alt+95|_|Alt+0095|_|
-|Alt+96|`|Alt+0096|`|
-|Alt+97|a|Alt+0097|a|
-|Alt+98|b|Alt+0098|b|
-|Alt+99|c|Alt+0099|c|
-|Alt+100|d|Alt+0100|d|
-|Alt+101|e|Alt+0101|e|
-|Alt+102|f|Alt+0102|f|
-|Alt+103|g|Alt+0103|g|
-|Alt+104|h|Alt+0104|h|
-|Alt+105|i|Alt+0105|i|
-|Alt+106|j|Alt+0106|j|
-|Alt+107|k|Alt+0107|k|
-|Alt+108|l|Alt+0108|l|
-|Alt+109|m|Alt+0109|m|
-|Alt+110|n|Alt+0110|n|
-|Alt+111|o|Alt+0111|o|
-|Alt+112|p|Alt+0112|p|
-|Alt+113|q|Alt+0113|q|
-|Alt+114|r|Alt+0114|r|
-|Alt+115|s|Alt+0115|s|
-|Alt+116|t|Alt+0116|t|
-|Alt+117|u|Alt+0117|u|
-|Alt+118|v|Alt+0118|v|
-|Alt+119|w|Alt+0119|w|
-|Alt+120|x|Alt+0120|x|
-|Alt+121|y|Alt+0121|y|
-|Alt+122|z|Alt+0122|z|
-|Alt+123|{|Alt+0123|{|
-|Alt+124|\||Alt+0124|\||
-|Alt+125|}|Alt+0125|}|
-|Alt+126|~|Alt+0126|~|
-|Alt+127|⌂|Alt+0127||
-|Alt+128|Ç|Alt+0128|€|
-|Alt+129|ü|Alt+0129||
-|Alt+130|é|Alt+0130|‚|
-|Alt+131|â|Alt+0131|ƒ|
-|Alt+132|ä|Alt+0132|„|
-|Alt+133|à|Alt+0133|…|
-|Alt+134|å|Alt+0134|†|
-|Alt+135|ç|Alt+0135|‡|
-|Alt+136|ê|Alt+0136|ˆ|
-|Alt+137|ë|Alt+0137|‰|
-|Alt+138|è|Alt+0138|Š|
-|Alt+139|ï|Alt+0139|‹|
-|Alt+140|î|Alt+0140|Œ|
-|Alt+141|ì|Alt+0141||
-|Alt+142|Ä|Alt+0142|Ž|
-|Alt+143|Å|Alt+0143||
-|Alt+144|É|Alt+0144||
-|Alt+145|æ|Alt+0145|‘|
-|Alt+146|Æ|Alt+0146|’|
-|Alt+147|ô|Alt+0147|“|
-|Alt+148|ö|Alt+0148|”|
-|Alt+149|ò|Alt+0149|•|
-|Alt+150|û|Alt+0150|–|
-|Alt+151|ù|Alt+0151|—|
-|Alt+152|ÿ|Alt+0152|˜|
-|Alt+153|Ö|Alt+0153|™|
-|Alt+154|Ü|Alt+0154|š|
-|Alt+155|ø|Alt+0155|›|
-|Alt+156|£|Alt+0156|œ|
-|Alt+157|Ø|Alt+0157||
-|Alt+158|×|Alt+0158|ž|
-|Alt+159|ƒ|Alt+0159|Ÿ|
-|Alt+160|á|Alt+0160|espace insécable|
-|Alt+161|í|Alt+0161|¡|
-|Alt+162|ó|Alt+0162|¢|
-|Alt+163|ú|Alt+0163|£|
-|Alt+164|ñ|Alt+0164|¤|
-|Alt+165|Ñ|Alt+0165|¥|
-|Alt+166|ª|Alt+0166|¦|
-|Alt+167|º|Alt+0167|§|
-|Alt+168|¿|Alt+0168|¨|
-|Alt+169|®|Alt+0169|©|
-|Alt+170|¬|Alt+0170|ª|
-|Alt+171|½|Alt+0171|«|
-|Alt+172|¼|Alt+0172|¬|
-|Alt+173|¡|Alt+0173||
-|Alt+174|«|Alt+0174|®|
-|Alt+175|»|Alt+0175|¯|
-|Alt+176|░|Alt+0176|°|
-|Alt+177|▒|Alt+0177|±|
-|Alt+178|▓|Alt+0178|²|
-|Alt+179|│|Alt+0179|³|
-|Alt+180|┤|Alt+0180|´|
-|Alt+181|Á|Alt+0181|µ|
-|Alt+182|Â|Alt+0182|¶|
-|Alt+183|À|Alt+0183|·|
-|Alt+184|©|Alt+0184|¸|
-|Alt+185|╣|Alt+0185|¹|
-|Alt+186|║|Alt+0186|º|
-|Alt+187|╗|Alt+0187|»|
-|Alt+188|╝|Alt+0188|¼|
-|Alt+189|¢|Alt+0189|½|
-|Alt+190|¥|Alt+0190|¾|
-|Alt+191|┐|Alt+0191|¿|
-|Alt+192|└|Alt+0192|À|
-|Alt+193|┴|Alt+0193|Á|
-|Alt+194|┬|Alt+0194|Â|
-|Alt+195|├|Alt+0195|Ã|
-|Alt+196|─|Alt+0196|Ä|
-|Alt+197|┼|Alt+0197|Å|
-|Alt+198|ã|Alt+0198|Æ|
-|Alt+199|Ã|Alt+0199|Ç|
-|Alt+200|╚|Alt+0200|È|
-|Alt+201|╔|Alt+0201|É|
-|Alt+202|╩|Alt+0202|Ê|
-|Alt+203|╦|Alt+0203|Ë|
-|Alt+204|╠|Alt+0204|Ì|
-|Alt+205|═|Alt+0205|Í|
-|Alt+206|╬|Alt+0206|Î|
-|Alt+207|¤|Alt+0207|Ï|
-|Alt+208|ð|Alt+0208|Ð|
-|Alt+209|Ð|Alt+0209|Ñ|
-|Alt+210|Ê|Alt+0210|Ò|
-|Alt+211|Ë|Alt+0211|Ó|
-|Alt+212|È|Alt+0212|Ô|
-|Alt+213|ı|Alt+0213|Õ|
-|Alt+214|Í|Alt+0214|Ö|
-|Alt+215|Î|Alt+0215|×|
-|Alt+216|Ï|Alt+0216|Ø|
-|Alt+217|┘|Alt+0217|Ù|
-|Alt+218|┌|Alt+0218|Ú|
-|Alt+219|█|Alt+0219|Û|
-|Alt+220|▄|Alt+0220|Ü|
-|Alt+221|¦|Alt+0221|Ý|
-|Alt+222|Ì|Alt+0222|Þ|
-|Alt+223|▀|Alt+0223|ß|
-|Alt+224|Ó|Alt+0224|à|
-|Alt+225|ß|Alt+0225|á|
-|Alt+226|Ô|Alt+0226|â|
-|Alt+227|Ò|Alt+0227|ã|
-|Alt+228|õ|Alt+0228|ä|
-|Alt+229|Õ|Alt+0229|å|
-|Alt+230|µ|Alt+0230|æ|
-|Alt+231|þ|Alt+0231|ç|
-|Alt+232|Þ|Alt+0232|è|
-|Alt+233|Ú|Alt+0233|é|
-|Alt+234|Û|Alt+0234|ê|
-|Alt+235|Ù|Alt+0235|ë|
-|Alt+236|ý|Alt+0236|ì|
-|Alt+237|Ý|Alt+0237|í|­­­
-|Alt+238|¯|Alt+0238|î|
-|Alt+239|´|Alt+0239|ï|
-|Alt+240|-|Alt+0240|­ð|
-|Alt+241|±|Alt+0241|ñ|
-|Alt+242|‗|Alt+0242|ò|
-|Alt+243|¾|Alt+0243|ó|
-|Alt+244|¶|Alt+0244|ô|
-|Alt+245|§|Alt+0245|õ|
-|Alt+246|÷|Alt+0246|ö|
-|Alt+247|¸|Alt+0247|÷|
-|Alt+248|°|Alt+0248|ø|
-|Alt+249|¨|Alt+0249|ù|
-|Alt+250|·|Alt+0250|ú|
-|Alt+251|¹|Alt+0251|û|
-|Alt+252|³|Alt+0252|ü|
-|Alt+253|²|Alt+0253|ý|
-|Alt+254|■|Alt+0254|þ|
-|Alt+255|espace insécable, non-breaking space|Alt+0255|ÿ|
+|<kbd>ALT</kbd>+1|☺|<kbd>ALT</kbd>+0001|-|	
+|<kbd>ALT</kbd>+2|☻|<kbd>ALT</kbd>+0002|-|	
+|<kbd>ALT</kbd>+3|♥|<kbd>ALT</kbd>+0003|-|	
+|<kbd>ALT</kbd>+4|♦|<kbd>ALT</kbd>+0004|-|	
+|<kbd>ALT</kbd>+5|♣|<kbd>ALT</kbd>+0005|-|	
+|<kbd>ALT</kbd>+6|♠|<kbd>ALT</kbd>+0006|-|	
+|<kbd>ALT</kbd>+7|•|<kbd>ALT</kbd>+0007|-|	
+|<kbd>ALT</kbd>+8|◘|<kbd>ALT</kbd>+0008|-|	
+|<kbd>ALT</kbd>+9|○|<kbd>ALT</kbd>+0009|-|	
+|<kbd>ALT</kbd>+10|◙|<kbd>ALT</kbd>+0010|-|	
+|<kbd>ALT</kbd>+11|♂|<kbd>ALT</kbd>+0011|-|	
+|<kbd>ALT</kbd>+12|♀|<kbd>ALT</kbd>+0012|-|	
+|<kbd>ALT</kbd>+13|♪|<kbd>ALT</kbd>+0013|-|	
+|<kbd>ALT</kbd>+14|♫|<kbd>ALT</kbd>+0014|-|	
+|<kbd>ALT</kbd>+15|☼|<kbd>ALT</kbd>+0015|-|	
+|<kbd>ALT</kbd>+16|►|<kbd>ALT</kbd>+0016|-|	
+|<kbd>ALT</kbd>+17|◄|<kbd>ALT</kbd>+0017|-|	
+|<kbd>ALT</kbd>+18|↕|<kbd>ALT</kbd>+0018|-|	
+|<kbd>ALT</kbd>+19|‼|<kbd>ALT</kbd>+0019|-|	
+|<kbd>ALT</kbd>+20|¶|<kbd>ALT</kbd>+0020|-|	
+|<kbd>ALT</kbd>+21|§|<kbd>ALT</kbd>+0021|-|	
+|<kbd>ALT</kbd>+22|▬|<kbd>ALT</kbd>+0022|-|	
+|<kbd>ALT</kbd>+23|↨|<kbd>ALT</kbd>+0023|-|	
+|<kbd>ALT</kbd>+24|↑|<kbd>ALT</kbd>+0024|-|	
+|<kbd>ALT</kbd>+25|↓|<kbd>ALT</kbd>+0025|-|	
+|<kbd>ALT</kbd>+26|→|<kbd>ALT</kbd>+0026|-|	
+|<kbd>ALT</kbd>+27|←|<kbd>ALT</kbd>+0027|-|	
+|<kbd>ALT</kbd>+28|∟|<kbd>ALT</kbd>+0028|-|	
+|<kbd>ALT</kbd>+29|↔|<kbd>ALT</kbd>+0029|-|	
+|<kbd>ALT</kbd>+30|▲|<kbd>ALT</kbd>+0030|-|	
+|<kbd>ALT</kbd>+31|▼|<kbd>ALT</kbd>+0031|-|	
+|<kbd>ALT</kbd>+32|espace,espacement,space,SP|<kbd>ALT</kbd>+0032|espace,espacement,space,SP|
+|<kbd>ALT</kbd>+33|!|<kbd>ALT</kbd>+0033|!|
+|<kbd>ALT</kbd>+34|"|<kbd>ALT</kbd>+0034|"|
+|<kbd>ALT</kbd>+35|#|<kbd>ALT</kbd>+0035|#|
+|<kbd>ALT</kbd>+36|$|<kbd>ALT</kbd>+0036|$|
+|<kbd>ALT</kbd>+37|%|<kbd>ALT</kbd>+0037|%|
+|<kbd>ALT</kbd>+38|&|<kbd>ALT</kbd>+0038|&|
+|<kbd>ALT</kbd>+39|'|<kbd>ALT</kbd>+0039|'|
+|<kbd>ALT</kbd>+40|(|<kbd>ALT</kbd>+0040|(|
+|<kbd>ALT</kbd>+41|)|<kbd>ALT</kbd>+0041|)|
+|<kbd>ALT</kbd>+42|*|<kbd>ALT</kbd>+0042|*|
+|<kbd>ALT</kbd>+43|+|<kbd>ALT</kbd>+0043|+|
+|<kbd>ALT</kbd>+44|,|<kbd>ALT</kbd>+0044|,|
+|<kbd>ALT</kbd>+45|-|<kbd>ALT</kbd>+0045|-|
+|<kbd>ALT</kbd>+46|.|<kbd>ALT</kbd>+0046|.|
+|<kbd>ALT</kbd>+47|/|<kbd>ALT</kbd>+0047|/|
+|<kbd>ALT</kbd>+48|0|<kbd>ALT</kbd>+0048|0|
+|<kbd>ALT</kbd>+49|1|<kbd>ALT</kbd>+0049|1|
+|<kbd>ALT</kbd>+50|2|<kbd>ALT</kbd>+0050|2|
+|<kbd>ALT</kbd>+51|3|<kbd>ALT</kbd>+0051|3|
+|<kbd>ALT</kbd>+52|4|<kbd>ALT</kbd>+0052|4|
+|<kbd>ALT</kbd>+53|5|<kbd>ALT</kbd>+0053|5|
+|<kbd>ALT</kbd>+54|6|<kbd>ALT</kbd>+0054|6|
+|<kbd>ALT</kbd>+55|7|<kbd>ALT</kbd>+0055|7|
+|<kbd>ALT</kbd>+56|8|<kbd>ALT</kbd>+0056|8|
+|<kbd>ALT</kbd>+57|9|<kbd>ALT</kbd>+0057|9|
+|<kbd>ALT</kbd>+58|:|<kbd>ALT</kbd>+0058|:|
+|<kbd>ALT</kbd>+59|;|<kbd>ALT</kbd>+0059|;|
+|<kbd>ALT</kbd>+60|<|<kbd>ALT</kbd>+0060|<|
+|<kbd>ALT</kbd>+61|=|<kbd>ALT</kbd>+0061|=|
+|<kbd>ALT</kbd>+62|>|<kbd>ALT</kbd>+0062| >|
+|<kbd>ALT</kbd>+63|?|<kbd>ALT</kbd>+0063|?|
+|<kbd>ALT</kbd>+64|@|<kbd>ALT</kbd>+0064|@|
+|<kbd>ALT</kbd>+65|A|<kbd>ALT</kbd>+0065|A|
+|<kbd>ALT</kbd>+66|B|<kbd>ALT</kbd>+0066|B|
+|<kbd>ALT</kbd>+67|C|<kbd>ALT</kbd>+0067|C|
+|<kbd>ALT</kbd>+68|D|<kbd>ALT</kbd>+0068|D|
+|<kbd>ALT</kbd>+69|E|<kbd>ALT</kbd>+0069|E|
+|<kbd>ALT</kbd>+70|F|<kbd>ALT</kbd>+0070|F|
+|<kbd>ALT</kbd>+71|G|<kbd>ALT</kbd>+0071|G|
+|<kbd>ALT</kbd>+72|H|<kbd>ALT</kbd>+0072|H|
+|<kbd>ALT</kbd>+73|I|<kbd>ALT</kbd>+0073|I|
+|<kbd>ALT</kbd>+74|J|<kbd>ALT</kbd>+0074|J|
+|<kbd>ALT</kbd>+75|K|<kbd>ALT</kbd>+0075|K|
+|<kbd>ALT</kbd>+76|L|<kbd>ALT</kbd>+0076|L|
+|<kbd>ALT</kbd>+77|M|<kbd>ALT</kbd>+0077|M|
+|<kbd>ALT</kbd>+78|N|<kbd>ALT</kbd>+0078|N|
+|<kbd>ALT</kbd>+79|O|<kbd>ALT</kbd>+0079|O|
+|<kbd>ALT</kbd>+80|P|<kbd>ALT</kbd>+0080|P|
+|<kbd>ALT</kbd>+81|Q|<kbd>ALT</kbd>+0081|Q|
+|<kbd>ALT</kbd>+82|R|<kbd>ALT</kbd>+0082|R|
+|<kbd>ALT</kbd>+83|S|<kbd>ALT</kbd>+0083|S|
+|<kbd>ALT</kbd>+84|T|<kbd>ALT</kbd>+0084|T|
+|<kbd>ALT</kbd>+85|U|<kbd>ALT</kbd>+0085|U|
+|<kbd>ALT</kbd>+86|V|<kbd>ALT</kbd>+0086|V|
+|<kbd>ALT</kbd>+87|W|<kbd>ALT</kbd>+0087|W|
+|<kbd>ALT</kbd>+88|X|<kbd>ALT</kbd>+0088|X|
+|<kbd>ALT</kbd>+89|Y|<kbd>ALT</kbd>+0089|Y|
+|<kbd>ALT</kbd>+90|Z|<kbd>ALT</kbd>+0090|Z|
+|<kbd>ALT</kbd>+91|[|<kbd>ALT</kbd>+0091|[|
+|<kbd>ALT</kbd>+92|\\|<kbd>ALT</kbd>+0092|\\|
+|<kbd>ALT</kbd>+93|]|<kbd>ALT</kbd>+0093|]|
+|<kbd>ALT</kbd>+94|\^|<kbd>ALT</kbd>+0094|^|
+|<kbd>ALT</kbd>+95|_|<kbd>ALT</kbd>+0095|_|
+|<kbd>ALT</kbd>+96|`|<kbd>ALT</kbd>+0096|`|
+|<kbd>ALT</kbd>+97|a|<kbd>ALT</kbd>+0097|a|
+|<kbd>ALT</kbd>+98|b|<kbd>ALT</kbd>+0098|b|
+|<kbd>ALT</kbd>+99|c|<kbd>ALT</kbd>+0099|c|
+|<kbd>ALT</kbd>+100|d|<kbd>ALT</kbd>+0100|d|
+|<kbd>ALT</kbd>+101|e|<kbd>ALT</kbd>+0101|e|
+|<kbd>ALT</kbd>+102|f|<kbd>ALT</kbd>+0102|f|
+|<kbd>ALT</kbd>+103|g|<kbd>ALT</kbd>+0103|g|
+|<kbd>ALT</kbd>+104|h|<kbd>ALT</kbd>+0104|h|
+|<kbd>ALT</kbd>+105|i|<kbd>ALT</kbd>+0105|i|
+|<kbd>ALT</kbd>+106|j|<kbd>ALT</kbd>+0106|j|
+|<kbd>ALT</kbd>+107|k|<kbd>ALT</kbd>+0107|k|
+|<kbd>ALT</kbd>+108|l|<kbd>ALT</kbd>+0108|l|
+|<kbd>ALT</kbd>+109|m|<kbd>ALT</kbd>+0109|m|
+|<kbd>ALT</kbd>+110|n|<kbd>ALT</kbd>+0110|n|
+|<kbd>ALT</kbd>+111|o|<kbd>ALT</kbd>+0111|o|
+|<kbd>ALT</kbd>+112|p|<kbd>ALT</kbd>+0112|p|
+|<kbd>ALT</kbd>+113|q|<kbd>ALT</kbd>+0113|q|
+|<kbd>ALT</kbd>+114|r|<kbd>ALT</kbd>+0114|r|
+|<kbd>ALT</kbd>+115|s|<kbd>ALT</kbd>+0115|s|
+|<kbd>ALT</kbd>+116|t|<kbd>ALT</kbd>+0116|t|
+|<kbd>ALT</kbd>+117|u|<kbd>ALT</kbd>+0117|u|
+|<kbd>ALT</kbd>+118|v|<kbd>ALT</kbd>+0118|v|
+|<kbd>ALT</kbd>+119|w|<kbd>ALT</kbd>+0119|w|
+|<kbd>ALT</kbd>+120|x|<kbd>ALT</kbd>+0120|x|
+|<kbd>ALT</kbd>+121|y|<kbd>ALT</kbd>+0121|y|
+|<kbd>ALT</kbd>+122|z|<kbd>ALT</kbd>+0122|z|
+|<kbd>ALT</kbd>+123|{|<kbd>ALT</kbd>+0123|{|
+|<kbd>ALT</kbd>+124|\||<kbd>ALT</kbd>+0124|\||
+|<kbd>ALT</kbd>+125|}|<kbd>ALT</kbd>+0125|}|
+|<kbd>ALT</kbd>+126|~|<kbd>ALT</kbd>+0126|~|
+|<kbd>ALT</kbd>+127|⌂|<kbd>ALT</kbd>+0127||
+|<kbd>ALT</kbd>+128|Ç|<kbd>ALT</kbd>+0128|€|
+|<kbd>ALT</kbd>+129|ü|<kbd>ALT</kbd>+0129||
+|<kbd>ALT</kbd>+130|é|<kbd>ALT</kbd>+0130|‚|
+|<kbd>ALT</kbd>+131|â|<kbd>ALT</kbd>+0131|ƒ|
+|<kbd>ALT</kbd>+132|ä|<kbd>ALT</kbd>+0132|„|
+|<kbd>ALT</kbd>+133|à|<kbd>ALT</kbd>+0133|…|
+|<kbd>ALT</kbd>+134|å|<kbd>ALT</kbd>+0134|†|
+|<kbd>ALT</kbd>+135|ç|<kbd>ALT</kbd>+0135|‡|
+|<kbd>ALT</kbd>+136|ê|<kbd>ALT</kbd>+0136|ˆ|
+|<kbd>ALT</kbd>+137|ë|<kbd>ALT</kbd>+0137|‰|
+|<kbd>ALT</kbd>+138|è|<kbd>ALT</kbd>+0138|Š|
+|<kbd>ALT</kbd>+139|ï|<kbd>ALT</kbd>+0139|‹|
+|<kbd>ALT</kbd>+140|î|<kbd>ALT</kbd>+0140|Œ|
+|<kbd>ALT</kbd>+141|ì|<kbd>ALT</kbd>+0141||
+|<kbd>ALT</kbd>+142|Ä|<kbd>ALT</kbd>+0142|Ž|
+|<kbd>ALT</kbd>+143|Å|<kbd>ALT</kbd>+0143||
+|<kbd>ALT</kbd>+144|É|<kbd>ALT</kbd>+0144||
+|<kbd>ALT</kbd>+145|æ|<kbd>ALT</kbd>+0145|‘|
+|<kbd>ALT</kbd>+146|Æ|<kbd>ALT</kbd>+0146|’|
+|<kbd>ALT</kbd>+147|ô|<kbd>ALT</kbd>+0147|“|
+|<kbd>ALT</kbd>+148|ö|<kbd>ALT</kbd>+0148|”|
+|<kbd>ALT</kbd>+149|ò|<kbd>ALT</kbd>+0149|•|
+|<kbd>ALT</kbd>+150|û|<kbd>ALT</kbd>+0150|–|
+|<kbd>ALT</kbd>+151|ù|<kbd>ALT</kbd>+0151|—|
+|<kbd>ALT</kbd>+152|ÿ|<kbd>ALT</kbd>+0152|˜|
+|<kbd>ALT</kbd>+153|Ö|<kbd>ALT</kbd>+0153|™|
+|<kbd>ALT</kbd>+154|Ü|<kbd>ALT</kbd>+0154|š|
+|<kbd>ALT</kbd>+155|ø|<kbd>ALT</kbd>+0155|›|
+|<kbd>ALT</kbd>+156|£|<kbd>ALT</kbd>+0156|œ|
+|<kbd>ALT</kbd>+157|Ø|<kbd>ALT</kbd>+0157||
+|<kbd>ALT</kbd>+158|×|<kbd>ALT</kbd>+0158|ž|
+|<kbd>ALT</kbd>+159|ƒ|<kbd>ALT</kbd>+0159|Ÿ|
+|<kbd>ALT</kbd>+160|á|<kbd>ALT</kbd>+0160|espace insécable|
+|<kbd>ALT</kbd>+161|í|<kbd>ALT</kbd>+0161|¡|
+|<kbd>ALT</kbd>+162|ó|<kbd>ALT</kbd>+0162|¢|
+|<kbd>ALT</kbd>+163|ú|<kbd>ALT</kbd>+0163|£|
+|<kbd>ALT</kbd>+164|ñ|<kbd>ALT</kbd>+0164|¤|
+|<kbd>ALT</kbd>+165|Ñ|<kbd>ALT</kbd>+0165|¥|
+|<kbd>ALT</kbd>+166|ª|<kbd>ALT</kbd>+0166|¦|
+|<kbd>ALT</kbd>+167|º|<kbd>ALT</kbd>+0167|§|
+|<kbd>ALT</kbd>+168|¿|<kbd>ALT</kbd>+0168|¨|
+|<kbd>ALT</kbd>+169|®|<kbd>ALT</kbd>+0169|©|
+|<kbd>ALT</kbd>+170|¬|<kbd>ALT</kbd>+0170|ª|
+|<kbd>ALT</kbd>+171|½|<kbd>ALT</kbd>+0171|«|
+|<kbd>ALT</kbd>+172|¼|<kbd>ALT</kbd>+0172|¬|
+|<kbd>ALT</kbd>+173|¡|<kbd>ALT</kbd>+0173||
+|<kbd>ALT</kbd>+174|«|<kbd>ALT</kbd>+0174|®|
+|<kbd>ALT</kbd>+175|»|<kbd>ALT</kbd>+0175|¯|
+|<kbd>ALT</kbd>+176|░|<kbd>ALT</kbd>+0176|°|
+|<kbd>ALT</kbd>+177|▒|<kbd>ALT</kbd>+0177|±|
+|<kbd>ALT</kbd>+178|▓|<kbd>ALT</kbd>+0178|²|
+|<kbd>ALT</kbd>+179|│|<kbd>ALT</kbd>+0179|³|
+|<kbd>ALT</kbd>+180|┤|<kbd>ALT</kbd>+0180|´|
+|<kbd>ALT</kbd>+181|Á|<kbd>ALT</kbd>+0181|µ|
+|<kbd>ALT</kbd>+182|Â|<kbd>ALT</kbd>+0182|¶|
+|<kbd>ALT</kbd>+183|À|<kbd>ALT</kbd>+0183|·|
+|<kbd>ALT</kbd>+184|©|<kbd>ALT</kbd>+0184|¸|
+|<kbd>ALT</kbd>+185|╣|<kbd>ALT</kbd>+0185|¹|
+|<kbd>ALT</kbd>+186|║|<kbd>ALT</kbd>+0186|º|
+|<kbd>ALT</kbd>+187|╗|<kbd>ALT</kbd>+0187|»|
+|<kbd>ALT</kbd>+188|╝|<kbd>ALT</kbd>+0188|¼|
+|<kbd>ALT</kbd>+189|¢|<kbd>ALT</kbd>+0189|½|
+|<kbd>ALT</kbd>+190|¥|<kbd>ALT</kbd>+0190|¾|
+|<kbd>ALT</kbd>+191|┐|<kbd>ALT</kbd>+0191|¿|
+|<kbd>ALT</kbd>+192|└|<kbd>ALT</kbd>+0192|À|
+|<kbd>ALT</kbd>+193|┴|<kbd>ALT</kbd>+0193|Á|
+|<kbd>ALT</kbd>+194|┬|<kbd>ALT</kbd>+0194|Â|
+|<kbd>ALT</kbd>+195|├|<kbd>ALT</kbd>+0195|Ã|
+|<kbd>ALT</kbd>+196|─|<kbd>ALT</kbd>+0196|Ä|
+|<kbd>ALT</kbd>+197|┼|<kbd>ALT</kbd>+0197|Å|
+|<kbd>ALT</kbd>+198|ã|<kbd>ALT</kbd>+0198|Æ|
+|<kbd>ALT</kbd>+199|Ã|<kbd>ALT</kbd>+0199|Ç|
+|<kbd>ALT</kbd>+200|╚|<kbd>ALT</kbd>+0200|È|
+|<kbd>ALT</kbd>+201|╔|<kbd>ALT</kbd>+0201|É|
+|<kbd>ALT</kbd>+202|╩|<kbd>ALT</kbd>+0202|Ê|
+|<kbd>ALT</kbd>+203|╦|<kbd>ALT</kbd>+0203|Ë|
+|<kbd>ALT</kbd>+204|╠|<kbd>ALT</kbd>+0204|Ì|
+|<kbd>ALT</kbd>+205|═|<kbd>ALT</kbd>+0205|Í|
+|<kbd>ALT</kbd>+206|╬|<kbd>ALT</kbd>+0206|Î|
+|<kbd>ALT</kbd>+207|¤|<kbd>ALT</kbd>+0207|Ï|
+|<kbd>ALT</kbd>+208|ð|<kbd>ALT</kbd>+0208|Ð|
+|<kbd>ALT</kbd>+209|Ð|<kbd>ALT</kbd>+0209|Ñ|
+|<kbd>ALT</kbd>+210|Ê|<kbd>ALT</kbd>+0210|Ò|
+|<kbd>ALT</kbd>+211|Ë|<kbd>ALT</kbd>+0211|Ó|
+|<kbd>ALT</kbd>+212|È|<kbd>ALT</kbd>+0212|Ô|
+|<kbd>ALT</kbd>+213|ı|<kbd>ALT</kbd>+0213|Õ|
+|<kbd>ALT</kbd>+214|Í|<kbd>ALT</kbd>+0214|Ö|
+|<kbd>ALT</kbd>+215|Î|<kbd>ALT</kbd>+0215|×|
+|<kbd>ALT</kbd>+216|Ï|<kbd>ALT</kbd>+0216|Ø|
+|<kbd>ALT</kbd>+217|┘|<kbd>ALT</kbd>+0217|Ù|
+|<kbd>ALT</kbd>+218|┌|<kbd>ALT</kbd>+0218|Ú|
+|<kbd>ALT</kbd>+219|█|<kbd>ALT</kbd>+0219|Û|
+|<kbd>ALT</kbd>+220|▄|<kbd>ALT</kbd>+0220|Ü|
+|<kbd>ALT</kbd>+221|¦|<kbd>ALT</kbd>+0221|Ý|
+|<kbd>ALT</kbd>+222|Ì|<kbd>ALT</kbd>+0222|Þ|
+|<kbd>ALT</kbd>+223|▀|<kbd>ALT</kbd>+0223|ß|
+|<kbd>ALT</kbd>+224|Ó|<kbd>ALT</kbd>+0224|à|
+|<kbd>ALT</kbd>+225|ß|<kbd>ALT</kbd>+0225|á|
+|<kbd>ALT</kbd>+226|Ô|<kbd>ALT</kbd>+0226|â|
+|<kbd>ALT</kbd>+227|Ò|<kbd>ALT</kbd>+0227|ã|
+|<kbd>ALT</kbd>+228|õ|<kbd>ALT</kbd>+0228|ä|
+|<kbd>ALT</kbd>+229|Õ|<kbd>ALT</kbd>+0229|å|
+|<kbd>ALT</kbd>+230|µ|<kbd>ALT</kbd>+0230|æ|
+|<kbd>ALT</kbd>+231|þ|<kbd>ALT</kbd>+0231|ç|
+|<kbd>ALT</kbd>+232|Þ|<kbd>ALT</kbd>+0232|è|
+|<kbd>ALT</kbd>+233|Ú|<kbd>ALT</kbd>+0233|é|
+|<kbd>ALT</kbd>+234|Û|<kbd>ALT</kbd>+0234|ê|
+|<kbd>ALT</kbd>+235|Ù|<kbd>ALT</kbd>+0235|ë|
+|<kbd>ALT</kbd>+236|ý|<kbd>ALT</kbd>+0236|ì|
+|<kbd>ALT</kbd>+237|Ý|<kbd>ALT</kbd>+0237|í|­­­
+|<kbd>ALT</kbd>+238|¯|<kbd>ALT</kbd>+0238|î|
+|<kbd>ALT</kbd>+239|´|<kbd>ALT</kbd>+0239|ï|
+|<kbd>ALT</kbd>+240|-|<kbd>ALT</kbd>+0240|­ð|
+|<kbd>ALT</kbd>+241|±|<kbd>ALT</kbd>+0241|ñ|
+|<kbd>ALT</kbd>+242|‗|<kbd>ALT</kbd>+0242|ò|
+|<kbd>ALT</kbd>+243|¾|<kbd>ALT</kbd>+0243|ó|
+|<kbd>ALT</kbd>+244|¶|<kbd>ALT</kbd>+0244|ô|
+|<kbd>ALT</kbd>+245|§|<kbd>ALT</kbd>+0245|õ|
+|<kbd>ALT</kbd>+246|÷|<kbd>ALT</kbd>+0246|ö|
+|<kbd>ALT</kbd>+247|¸|<kbd>ALT</kbd>+0247|÷|
+|<kbd>ALT</kbd>+248|°|<kbd>ALT</kbd>+0248|ø|
+|<kbd>ALT</kbd>+249|¨|<kbd>ALT</kbd>+0249|ù|
+|<kbd>ALT</kbd>+250|·|<kbd>ALT</kbd>+0250|ú|
+|<kbd>ALT</kbd>+251|¹|<kbd>ALT</kbd>+0251|û|
+|<kbd>ALT</kbd>+252|³|<kbd>ALT</kbd>+0252|ü|
+|<kbd>ALT</kbd>+253|²|<kbd>ALT</kbd>+0253|ý|
+|<kbd>ALT</kbd>+254|■|<kbd>ALT</kbd>+0254|þ|
+|<kbd>ALT</kbd>+255|espace insécable, non-breaking space|<kbd>ALT</kbd>+0255|ÿ|
 
 ### Commandes ACSCII, caractères non imprimables
 
@@ -331,7 +331,7 @@
 ---
 
 ***Sources :***
-1. *[70 raccourcis clavier ALT pour insérer un caractère spécial [BDM]](https://www.blogdumoderateur.com/raccourcis-clavier-alt-caractere-special/)*
+1. *[70 raccourcis clavier <kbd>ALT</kbd> pour insérer un caractère spécial [BDM]](https://www.blogdumoderateur.com/raccourcis-clavier-<kbd>ALT</kbd>-caractere-special/)*
 1. *[Æ](https://fr.wikipedia.org/wiki/%C3%86)*
 1. *[Œ](https://fr.wikipedia.org/wiki/%C5%92)*
 1. *[Mots qui contiennent ae ou bien æ](https://www.orthodidacte.com/videos-francais/mots-qui-contiennent-ae-ou-bien-ae/#:~:text=Pour%20savoir%20si%20a%2C%20e,maestro%2C%20paella%2C%20et%20cetera.)*
@@ -339,8 +339,8 @@
 1. *[Faire le E circonflexe majuscule et minuscule – Ê, ê](https://les-raccourcis-clavier.fr/e-circonflexe-majuscule-minuscule/)*
 1. *[Guillemet](https://fr.wikipedia.org/wiki/Guillemet)*
 1. *[LES ACCENTS (Windows)](https://carleton.ca/french/wp-content/uploads/les_accents_000.pdf)*
-1. *[Combinaisons de touche Alt](https://fr.wikipedia.org/wiki/Combinaisons_de_touche_Alt)*
-1. *[Alt Codes](https://www.alt-codes.net/#google_vignette)*
+1. *[Combinaisons de touche <kbd>ALT</kbd>](https://fr.wikipedia.org/wiki/Combinaisons_de_touche_<kbd>ALT</kbd>)*
+1. *[<kbd>ALT</kbd> Codes](https://www.<kbd>ALT</kbd>-codes.net/#google_vignette)*
 1. *[ASCII : American Standard Code for Information Interchange
 ](https://en.wikipedia.org/wiki/ASCII)*
 1. *[ASCII : American Standard Code for Information Interchange
